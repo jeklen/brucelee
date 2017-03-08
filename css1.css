@@ -1,0 +1,63 @@
+body
+{
+	background-color: #000;
+}
+
+
+#container
+{
+	margin:          0 auto;
+	padding-top:20px;
+	background-color:  #333;
+
+}
+
+#header
+{
+	background:url(header.gif);
+	height:	200px;
+}
+
+#menu
+{
+	margin: 2px;
+}
+
+#content
+{
+	min-height:      600px;
+	margin:          0 auto;
+	background-color:#FDFDFD;
+	padding: 10 px;
+		background-image:url(background.jpg);
+}
+
+#moreinsidecontent
+{background-image:url(more.jpg);
+}
+
+
+
+p
+{
+text-align:left;
+}
+
+
+h1
+{
+	margin:          0;
+	font-weight:     normal;
+	color:           #6A7919;
+	font-size:       2.5em;
+	font-family:Times;
+}
+
+
+#footer
+{
+	margin:          0 auto;
+	height:          39px;
+
+}
+*/
